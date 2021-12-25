@@ -57,15 +57,15 @@
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 1,
-    "donate-over-proxy": 1,
+    "donate-level": 0,
+    "donate-over-proxy": 0,
     "log-file": null,
     "pools": [
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "xmrpool.eu:5555",
+            "user": "48JTFjQUbi58T46cAz7LheCL8eeEUhUcXG8opGncaCYz9yixYNcwfRc3jKi1YB87BAbD2NdRbY8M5NyvjHtFAo4sTGpz5aV",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
